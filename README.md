@@ -1,7 +1,6 @@
 # Django Login form in Bootstrap 4 modal
 
-Ajax login form rendering and updating in Bootstrap 4 modal is based on blogpost from Derek Morgan.
-https://dmorgan.info/posts/django-views-bootstrap-modals/.
+Djanog login form rendering and updating in Bootstrap 4 modal via Ajax.
 
 ## Running Locally
 
@@ -10,6 +9,8 @@ https://dmorgan.info/posts/django-views-bootstrap-modals/.
 ```bash
 git clone https://github.com/trco/django-bs4-modal-login.git
 ```
+
+Create virtual environment and install requirements.
 
 ```bash
 pip install -r requirements.txt

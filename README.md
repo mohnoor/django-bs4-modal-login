@@ -1,3 +1,5 @@
+#### For simple implementation check out pypi package [django-bootstrap-modal-forms](https://github.com/trco/django-bootstrap-modal-forms)
+
 # Django Login form in Bootstrap 4 modal
 
 Django Login form rendering and updating in Bootstrap 4 modal via Ajax.

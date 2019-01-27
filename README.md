@@ -1,4 +1,4 @@
-#### For simple implementation check out pypi package [django-bootstrap-modal-forms](https://github.com/trco/django-bootstrap-modal-forms)
+### IMPORTANT: This repository is deprecated. For full implementation of CRUD actions, login/signup and other forms in Bootstrap3 or Bootstrap4 modal checkout [django-bootstrap-modal-forms](https://github.com/trco/django-bootstrap-modal-forms)
 
 # Django Login form in Bootstrap 4 modal
 
